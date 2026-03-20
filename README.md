@@ -1,2 +1,3 @@
-# fast-data-visualizer-8y6v
-A data visualization tool for modern development workflows
+# Fast Data Visualizer 8Y6V
+
+A data visualization tool for modern development workflows.
